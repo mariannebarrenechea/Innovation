@@ -2,4 +2,4 @@
  Blog
 
 
-Este es mi proyecto personal
+Este es mi proyecto personal, mi blog
